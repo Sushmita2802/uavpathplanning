@@ -7,3 +7,4 @@ This project implements **3D UAV path planning** using an **A\*** search algorit
 - **Spline smoothing** for a safe, continuous trajectory.
 - **Animated UAV visualization** (quadcopter model following the planned path).
 - Buildings displayed as **colored, semi-transparent blocks**.
+![demo](uavpathplanning.png)
